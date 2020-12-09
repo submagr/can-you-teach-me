@@ -1,7 +1,7 @@
 # can-you-teach-me
-Can you teach me is a slack extension where a user can have a list of things she would like to learn about. Other users can see the list and see if they can quickly (30 minutes) give her a head-start
+Can you teach me is a slack extension inspired from [donut](https://www.donut.com/). A user can have a list of things she would like to learn about. Other users can see the list and see if they can give her a head-start.
 
-or
+Idea:
 
 - A user can have a list of things she would like to know.
 - Other users can see them and tag them if they happen to have worked with it in past.
